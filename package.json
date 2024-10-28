@@ -1,0 +1,42 @@
+{
+  "name": "wechatvideodownloader",
+  "version": "1.0.0",
+  "description": "A tool for downloading WeChat Channel videos",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/wechatvideodownloader.git"
+  },
+  "keywords": [
+    "wechat",
+    "video",
+    "downloader",
+    "channel"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/wechatvideodownloader/issues"
+  },
+  "homepage": "https://github.com/yourusername/wechatvideodownloader#readme",
+  "dependencies": {
+    "next": "14.1.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "typescript": "^5"
+  }
+}
